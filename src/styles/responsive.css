@@ -1,3 +1,5 @@
+/* MEDIA QUERIES - DISEÑO RESPONSIVO */
+@media (max-width: 600px) {
   /* Ajustes responsivos para el header de las secciones en móviles */
   .project-header {
     flex-direction: column;
@@ -27,8 +29,6 @@
     margin-bottom: 1rem;
     margin-top: 0.5rem;
   }
-/* MEDIA QUERIES - DISEÑO RESPONSIVO */
-@media (max-width: 600px) {
   .main-header {
     flex-direction: column;
     gap: 1rem;
