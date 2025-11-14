@@ -1,6 +1,6 @@
 # Portfolio-Astro
 
-Este proyecto es un portafolio personal desarrollado con [Astro](https://astro.build/). Incluye varias aplicaciones y juegos como parte de la demostración de habilidades, incluyendo un arcade game y una aplicación de Pokémon.
+Este proyecto es un portafolio personal desarrollado con Astro + Javascript + CSS.
 
 ## Características
 
@@ -12,6 +12,15 @@ Este proyecto es un portafolio personal desarrollado con [Astro](https://astro.b
 ## Autor
 
 Franco Rigante
+
+## Capturas de pantalla
+
+A continuación se muestran algunas capturas del proyecto:
+
+![Captura 1](public/assets/README/Captura%20de%20pantalla%202025-11-14%20105014.png)
+![Captura 2](public/assets/README/Captura%20de%20pantalla%202025-11-14%20105026.png)
+![Captura 3](public/assets/README/Captura%20de%20pantalla%202025-11-14%20105047.png)
+![Captura 4](public/assets/README/Captura%20de%20pantalla%202025-11-14%20105102.png)
 
 ---
 ¡Gracias por visitar mi portafolio!
